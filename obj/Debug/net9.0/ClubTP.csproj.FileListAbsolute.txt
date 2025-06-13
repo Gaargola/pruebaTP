@@ -1,0 +1,14 @@
+/home/gargola/proyestos/ClubTP/bin/Debug/net9.0/ClubTP
+/home/gargola/proyestos/ClubTP/bin/Debug/net9.0/ClubTP.deps.json
+/home/gargola/proyestos/ClubTP/bin/Debug/net9.0/ClubTP.runtimeconfig.json
+/home/gargola/proyestos/ClubTP/bin/Debug/net9.0/ClubTP.dll
+/home/gargola/proyestos/ClubTP/bin/Debug/net9.0/ClubTP.pdb
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.GeneratedMSBuildEditorConfig.editorconfig
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.AssemblyInfoInputs.cache
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.AssemblyInfo.cs
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.csproj.CoreCompileInputs.cache
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.dll
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/refint/ClubTP.dll
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.pdb
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.genruntimeconfig.cache
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ref/ClubTP.dll

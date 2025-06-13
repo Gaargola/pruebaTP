@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ha1iHaChm7Y=",
+  "success": true,
+  "projectFilePath": "/home/gargola/proyestos/ClubTP/ClubTP.csproj",
+  "expectedPackageFiles": [
+    "/home/gargola/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
