@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClubTP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78cc13022981832b61ffe428c7bf4fe18beb2bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClubTP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClubTP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

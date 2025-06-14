@@ -12,3 +12,4 @@
 /home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.pdb
 /home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.genruntimeconfig.cache
 /home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ref/ClubTP.dll
+/home/gargola/proyestos/ClubTP/obj/Debug/net9.0/ClubTP.sourcelink.json
